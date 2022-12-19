@@ -6,7 +6,6 @@
 
 </br>
 </br>
-</br>
 
 
 # About me 💬 :
@@ -18,7 +17,6 @@
 - ✨ Watching Anime
 - ✨ Reading Light Novels and Manga
 
-</br>
 </br>
 </br>
 
@@ -48,7 +46,6 @@
 </p>
 </br>
 </br>
-</br>
 
 # Frameworks :
 </br>
@@ -65,7 +62,6 @@
 <img src="https://github.com/JosuX/JosuX/blob/main/assets/icons/frameworks/nodejs_larger.png" alt="nodejs_larger">
 <img src="https://github.com/JosuX/JosuX/blob/main/assets/icons/frameworks/jquery.png" alt="jquery">
 </p>
-</br>
 </br>
 </br>
 
@@ -91,7 +87,6 @@
 </p>
 </br>
 </br>
-</br>
 
 # Platforms :
 </br>
@@ -112,7 +107,6 @@
 </p>
 </br>
 </br>
-</br>
 
 # Coding :
 </br>
@@ -123,7 +117,6 @@
 <img src="https://github.com/JosuX/JosuX/blob/main/assets/icons/coding/hackerrank.png" alt="hackerrank">
 <img src="https://github.com/JosuX/JosuX/blob/main/assets/icons/coding/leetcode.png" alt="leetcode">
 </p>
-</br>
 </br>
 </br>
 
@@ -146,12 +139,14 @@ If you want to reach out to me about anything, just ping me 😉.
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/JosuX/JosuX/blob/main/assets/icons/socials/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/josu00/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/JosuX/JosuX/blob/main/assets/icons/linkedin.png" />
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/JosuX/JosuX/blob/main/assets/icons/socials/linkedin.png" />
 </a>
 
  </p>
  
 
+</br>
+</br>
 </br>
 </br>
 </br>
