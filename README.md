@@ -144,21 +144,11 @@ If you want to reach out to me about anything, just ping me 😉.
 <a href="https://www.linkedin.com/in/josu00/">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/JosuX/JosuX/blob/main/assets/icons/socials/linkedin.png" />
 </a>
-
  </p>
  
 
 </br>
 </br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
-
 
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
