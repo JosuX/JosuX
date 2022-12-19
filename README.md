@@ -130,7 +130,7 @@
  </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/JosuX/JosuX/blob/main/assets/93195.gif">
+<img height="320" width="450" align="center" alt="GIF" src="https://github.com/JosuX/JosuX/blob/main/assets/93195.gif">
 </br>
 </br>
 
