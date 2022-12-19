@@ -129,8 +129,9 @@
 <p>
  </br>
 
-
-<img height="320" width="450" align="center" alt="GIF" src="https://github.com/JosuX/JosuX/blob/main/assets/93195.gif">
+<p align="center">
+<img align="center" alt="GIF" src="https://github.com/JosuX/JosuX/blob/main/assets/93195.gif">
+</p>
 </br>
 </br>
 
