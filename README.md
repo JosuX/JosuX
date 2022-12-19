@@ -156,8 +156,6 @@ If you want to reach out to me about anything, just ping me 😉.
 </br>
 </br>
 </br>
-</br>
-</br>
 
 
 
