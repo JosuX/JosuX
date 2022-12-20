@@ -154,10 +154,10 @@ If you want to reach out to me about anything, just ping me 😉.
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=JosuX&&show_icons=true&theme=github_dark&hide=prs,issues,contribs"/>
    </br>
+  </a>
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=JosuX&theme=dark&hide_border=false"/>
  </br>
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosuX&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-  </a>
   </p>
 
 *************
