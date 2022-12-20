@@ -45,7 +45,6 @@
 <img src="https://github.com/JosuX/JosuX/blob/main/assets/icons/languages/php.png" alt="php">
 </p>
 </br>
-</br>
 
 # Frameworks :
 </br>
@@ -62,7 +61,6 @@
 <img src="https://github.com/JosuX/JosuX/blob/main/assets/icons/frameworks/nodejs_larger.png" alt="nodejs_larger">
 <img src="https://github.com/JosuX/JosuX/blob/main/assets/icons/frameworks/jquery.png" alt="jquery">
 </p>
-</br>
 </br>
 
 # IDE / Editors :
@@ -86,7 +84,6 @@
 <img src="https://github.com/JosuX/JosuX/blob/main/assets/icons/ide_editors/android_studio.png" alt="android_studio">
 </p>
 </br>
-</br>
 
 # Platforms :
 </br>
@@ -106,7 +103,6 @@
 <img src="https://github.com/JosuX/JosuX/blob/main/assets/icons/platforms/iot.png" alt="iot">
 </p>
 </br>
-</br>
 
 # Coding :
 </br>
@@ -117,7 +113,6 @@
 <img src="https://github.com/JosuX/JosuX/blob/main/assets/icons/coding/hackerrank.png" alt="hackerrank">
 <img src="https://github.com/JosuX/JosuX/blob/main/assets/icons/coding/leetcode.png" alt="leetcode">
 </p>
-</br>
 </br>
 
 
@@ -133,7 +128,6 @@
 <img align="center" alt="GIF" src="https://github.com/JosuX/JosuX/blob/main/assets/93195.gif">
 </p>
 </br>
-</br>
 
 
 If you want to reach out to me about anything, just ping me 😉.
@@ -147,7 +141,6 @@ If you want to reach out to me about anything, just ping me 😉.
  </p>
  
 
-</br>
 </br>
 
 <p align="left" >  
