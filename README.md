@@ -146,7 +146,7 @@ If you want to reach out to me about anything, just ping me 😉.
 
 <p align="left" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=JosuX&&show_icons=true&theme=github_dark&hide=prs,issues,contribs" width="495"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=TalkingRaven0&&show_icons=true&theme=github_dark&hide=prs,issues,contribs" width="495"/>
    </br>
   </a>
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=JosuX&theme=dark&hide_border=false" width="495"/>
