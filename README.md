@@ -10,7 +10,7 @@
 
 # About me 💬 :
 
-### I'm 22 years old, Software Engineer and Flutter Developer from the Philippines.
+### I'm a Software Engineer and Flutter Developer from the Philippines.
 
 ### - Hobbies : 
 - ✨ Playing JRPGs
